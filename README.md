@@ -1,6 +1,6 @@
 # **ッ** links-to-my-work
 
-### **➺** my portfolio :
+### **➺** My Portfolio :
 
 
 https://larooo.github.io/portfolio-html-css/index.html
