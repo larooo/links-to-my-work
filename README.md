@@ -7,11 +7,12 @@ https://larooo.github.io/portfolio-html-css/index.html
 
 
 #### https://larooo.github.io/to-do/   
-to try the app click hier **⇡**
+To try the app click here **⇡**
 
 
 
-##### https://github.com/larooo/to-do
+##### https://github.com/larooo/to-do  
+To see the code on github click here **⇡**
 
 -------------------------------------------------------------------------------
 
